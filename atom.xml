@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lavriame.github.io/gridea/</id>
     <title>Gridea</title>
-    <updated>2022-03-21T01:58:44.660Z</updated>
+    <updated>2022-03-21T02:00:29.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lavriame.github.io/gridea/"/>
     <link rel="self" href="https://lavriame.github.io/gridea/atom.xml"/>
@@ -10,13 +10,4 @@
     <logo>https://lavriame.github.io/gridea/images/avatar.png</logo>
     <icon>https://lavriame.github.io/gridea/favicon.ico</icon>
     <rights>All rights reserved 2022, Gridea</rights>
-    <entry>
-        <title type="html"><![CDATA[Hello World!]]></title>
-        <id>https://lavriame.github.io/gridea/post/hello-world/</id>
-        <link href="https://lavriame.github.io/gridea/post/hello-world/">
-        </link>
-        <updated>2022-03-21T01:56:07.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://lavriame.github.io/gridea//post-images/1647827911926.jpg" alt="" loading="lazy"></figure>
-]]></content>
-    </entry>
 </feed>
