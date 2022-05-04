@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://lavriame.github.io/Blog</id>
+    <id>https://lavriame.github.io</id>
     <title>Lavriame</title>
-    <updated>2022-05-04T03:01:05.667Z</updated>
+    <updated>2022-05-04T06:29:02.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://lavriame.github.io/Blog"/>
-    <link rel="self" href="https://lavriame.github.io/Blog/atom.xml"/>
+    <link rel="alternate" href="https://lavriame.github.io"/>
+    <link rel="self" href="https://lavriame.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://lavriame.github.io/Blog/images/avatar.png</logo>
-    <icon>https://lavriame.github.io/Blog/favicon.ico</icon>
+    <logo>https://lavriame.github.io/images/avatar.png</logo>
+    <icon>https://lavriame.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Lavriame</rights>
     <entry>
         <title type="html"><![CDATA[检索四1看到的文章，做个存档]]></title>
-        <id>https://lavriame.github.io/Blog/post/jian-suo-si-1-kan-dao-de-wen-zhang-zuo-ge-cun-dang/</id>
-        <link href="https://lavriame.github.io/Blog/post/jian-suo-si-1-kan-dao-de-wen-zhang-zuo-ge-cun-dang/">
+        <id>https://lavriame.github.io/post/jian-suo-si-1-kan-dao-de-wen-zhang-zuo-ge-cun-dang/</id>
+        <link href="https://lavriame.github.io/post/jian-suo-si-1-kan-dao-de-wen-zhang-zuo-ge-cun-dang/">
         </link>
         <updated>2022-05-03T07:41:09.000Z</updated>
         <content type="html"><![CDATA[<p>2013年4月23日，在北京大学斯坦福研究中心举办的活动中，学者秦晖与《邓小平时代》一书的作者、著名社会学家傅高义现场对话，探讨1949年建国迄今，遮蔽在当代中国主流叙事方法后的真实的历史</p>
@@ -51,11 +51,11 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello World!]]></title>
-        <id>https://lavriame.github.io/Blog/post/hello-world/</id>
-        <link href="https://lavriame.github.io/Blog/post/hello-world/">
+        <id>https://lavriame.github.io/post/hello-world/</id>
+        <link href="https://lavriame.github.io/post/hello-world/">
         </link>
         <updated>2022-03-21T01:56:07.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://lavriame.github.io/Blog/post-images/1647827911926.jpg" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://lavriame.github.io/post-images/1647827911926.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
